@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/JoaoFilgueiras/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaoFilgueiras&show_icons=true&theme=dark" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JoaoFilgueiras&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/JoaoFilgueiras/github-readme-stats">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFilgueiras&layout=compact&theme=dark" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFilgueiras&layout=compact&theme=dark" />
   </a>
 </div>
 
